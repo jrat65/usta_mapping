@@ -3,25 +3,6 @@
 	<Document>
 		<name>US States</name>
 		<open>1</open>
-		<Style id="Style_1">
-			<IconStyle>
-				<scale>0.4</scale>
-				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
-				</Icon>
-			</IconStyle>
-			<LabelStyle>
-				<color>9900ffff</color>
-				<scale>1</scale>
-			</LabelStyle>
-			<LineStyle>
-				<color>990000ff</color>
-				<width>2</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>880000ff</color>
-			</PolyStyle>
-		</Style>
 		<Style id="Style_2">
 		  <IconStyle>
 			<scale>0.4</scale>
@@ -41,217 +22,31 @@
 			<color>880066ff</color>
 		  </PolyStyle>
 		</Style>
-		<Style id="Style_3">
-		  <IconStyle>
-			<scale>0.4</scale>
-			<Icon>
-			  <href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
-			</Icon>
-		  </IconStyle>
-		  <LabelStyle>
-			<color>9900ffff</color>
-			<scale>1</scale>
-		  </LabelStyle>
-		  <LineStyle>
-			<color>990000ff</color>
-			<width>2</width>
-		  </LineStyle>
-		  <PolyStyle>
-			<color>880094ff</color>
-		  </PolyStyle>
-		</Style>
-		<Style id="Style_4">
-		  <IconStyle>
-			<scale>0.4</scale>
-			<Icon>
-			  <href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
-			</Icon>
-		  </IconStyle>
-		  <LabelStyle>
-			<color>9900ffff</color>
-			<scale>1</scale>
-		  </LabelStyle>
-		  <LineStyle>
-			<color>990000ff</color>
-			<width>2</width>
-		  </LineStyle>
-		  <PolyStyle>
-			<color>8800c5fe</color>
-		  </PolyStyle>
-		</Style>
-		<Style id="Style_5">
-		  <IconStyle>
-			<scale>0.4</scale>
-			<Icon>
-			  <href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
-			</Icon>
-		  </IconStyle>
-		  <LabelStyle>
-			<color>9900ffff</color>
-			<scale>1</scale>
-		  </LabelStyle>
-		  <LineStyle>
-			<color>990000ff</color>
-			<width>2</width>
-		  </LineStyle>
-		  <PolyStyle>
-			<color>8800ffff</color>
-		  </PolyStyle>
-		</Style>
-		<Style id="Style_6">
-		  <IconStyle>
-			<scale>0.4</scale>
-			<Icon>
-			  <href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
-			</Icon>
-		  </IconStyle>
-		  <LabelStyle>
-			<color>9900ffff</color>
-			<scale>1</scale>
-		  </LabelStyle>
-		  <LineStyle>
-			<color>990000ff</color>
-			<width>2</width>
-		  </LineStyle>
-		  <PolyStyle>
-			<color>8800c78c</color>
-		  </PolyStyle>
-		</Style>
-		<Style id="Style_7">
-		  <IconStyle>
-			<scale>0.4</scale>
-			<Icon>
-			  <href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
-			</Icon>
-		  </IconStyle>
-		  <LabelStyle>
-			<color>9900ffff</color>
-			<scale>1</scale>
-		  </LabelStyle>
-		  <LineStyle>
-			<color>990000ff</color>
-			<width>2</width>
-		  </LineStyle>
-		  <PolyStyle>
-			<color>8800ad15</color>
-		  </PolyStyle>
-		</Style>
-		<Style id="Style_8">
-		  <IconStyle>
-			<scale>0.4</scale>
-			<Icon>
-			  <href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
-			</Icon>
-		  </IconStyle>
-		  <LabelStyle>
-			<color>9900ffff</color>
-			<scale>1</scale>
-		  </LabelStyle>
-		  <LineStyle>
-			<color>990000ff</color>
-			<width>2</width>
-		  </LineStyle>
-		  <PolyStyle>
-			<color>88c7a300</color>
-		  </PolyStyle>
-		</Style>
-		<Style id="Style_9">
-		  <IconStyle>
-			<scale>0.4</scale>
-			<Icon>
-			  <href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
-			</Icon>
-		  </IconStyle>
-		  <LabelStyle>
-			<color>9900ffff</color>
-			<scale>1</scale>
-		  </LabelStyle>
-		  <LineStyle>
-			<color>990000ff</color>
-			<width>2</width>
-		  </LineStyle>
-		  <PolyStyle>
-			<color>88b56500</color>
-		  </PolyStyle>
-		</Style>
-		<Style id="Style_10">
-		  <IconStyle>
-			<scale>0.4</scale>
-			<Icon>
-			  <href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
-			</Icon>
-		  </IconStyle>
-		  <LabelStyle>
-			<color>9900ffff</color>
-			<scale>1</scale>
-		  </LabelStyle>
-		  <LineStyle>
-			<color>990000ff</color>
-			<width>2</width>
-		  </LineStyle>
-		  <PolyStyle>
-			<color>88a51500</color>
-		  </PolyStyle>
-		</Style>
-		<Style id="Style_11">
-		  <IconStyle>
-			<scale>0.4</scale>
-			<Icon>
-			  <href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
-			</Icon>
-		  </IconStyle>
-		  <LabelStyle>
-			<color>9900ffff</color>
-			<scale>1</scale>
-		  </LabelStyle>
-		  <LineStyle>
-			<color>990000ff</color>
-			<width>2</width>
-		  </LineStyle>
-		  <PolyStyle>
-			<color>88a50063</color>
-		  </PolyStyle>
-		</Style>
-		<Style id="Style_12">
-		  <IconStyle>
-			<scale>0.4</scale>
-			<Icon>
-			  <href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
-			</Icon>
-		  </IconStyle>
-		  <LabelStyle>
-			<color>9900ffff</color>
-			<scale>1</scale>
-		  </LabelStyle>
-		  <LineStyle>
-			<color>990000ff</color>
-			<width>2</width>
-		  </LineStyle>
-		  <PolyStyle>
-			<color>887c00c5</color>
-		  </PolyStyle>
-		</Style>
 		<Placemark id="pm252">
 			<name>Washington</name>
 			<Snippet maxLines="0">empty</Snippet>
-			<description><![CDATA[<table cellpadding="1" cellspacing="1">
-							<tr>
+			<description>
+				<![CDATA[
+					<table cellpadding="1" cellspacing="1">
+						<tr>
 							<td>USTA ID Tech:</td>
 							<td>Bill Vallandingham</td>
-							</tr>
-							<tr>
+						</tr>
+						<tr>
 							<td>States Covered:</td>
 							<td>CA, OR, WA</td>
-							</tr>
-							<tr>
+						</tr>
+						<tr>
 							<td>Phone:</td>
 							<td><a href="tel:916-716-7712">916-716-7712</a></td>
-							</tr>
-							<tr>
+						</tr>
+						<tr>
 							<td>Email:</td>
 							<td><a href = "mailto:1billyv@comcast.net?subject=USTA%20ID%20Tech%20Web%20Contact&amp;body=Website Contact">1billyv@comcast.net</a></td>
-							</tr>
-						</table>]]></description>
+						</tr>
+					</table>
+				]]>
+			</description>
 			<TimeSpan>
 				<begin>1889</begin>
 			</TimeSpan>
